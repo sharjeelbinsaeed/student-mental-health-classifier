@@ -3,8 +3,7 @@
 Predicts **Low / Medium / High** mental health category from student study, sleep, stress & context features.
 
 ## Demo
-- Streamlit Cloud: <your-live-link>
-- Hugging Face Space: <your-space-link>
+- Streamlit Cloud: https://sharjeelbinsaeed-student-mental-health-classifier.streamlit.app/<your-live-link
 
 ## How it works
 - Target grouped: 1–3=Low, 4–7=Medium, 8–10=High
